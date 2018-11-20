@@ -6,7 +6,7 @@
 >
 > JavaScript와 HTML을 사용해보지 않았다면 추천하지 않습니다.
 
-## Introduce to ReactJS
+## Introduction to ReactJS
 
 ​	React는 Facebook에서 내부적으로 개발한 JavaScript 라이브러리로 2013년에 오픈 소스로 공개되었다. 웹에서 상호작용하는 사용자 인터페이스를 만들기 위한 라이브러리이다. React는 브라우저 DOM을 다루는 새로운 방법을 소개했다. 확장성과 새로운 기능의 개발을 위해 수동으로 DOM을 갱신하고 어렵게 각 상태를 추적하는 노력은 이제 옛날이야기가 되었다.
 
