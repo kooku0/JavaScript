@@ -95,7 +95,7 @@ server.on('error', (error) => {
 
 요청은 분명 한 번만 보냈는데 두 개가 기록되어 있습니다. /favicon.ico는 요청한 적이 없는데 말이죠. 첫 번째 요청('/')에서는 쿠키에 대한 정보가 없다고 나오고, 두 번째 요청('/favicon.ico')에서는 { mycookie: 'test' }가 기록되었습니다.
 
-![favicon](C:\Users\koomg\Documents\BOOK\nodejs_img\favicon.PNG)
+![favicon](.\nodejs_img\favicon.PNG)
 
 빨간 네모가 favicon입니다.
 
